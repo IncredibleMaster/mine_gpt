@@ -1,0 +1,29 @@
+.compose {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  border-top: 1px solid #eeeef1;
+  position: fixed;
+  width: calc(100% - 20px);
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  bottom: 0px;
+  background-color: white;
+  
+}
+
+.compose-input {
+  flex: 1;
+  font-size: 14px;
+  height: 40px;
+  border-radius: 20px;
+  border: none;
+  padding-left: 10px;
+  
+  background-color: rgb(224, 225, 228);
+}
+
+.compose-input:focus {
+  outline: none;
+}
