@@ -43,6 +43,10 @@ const additionalPrompt = "AI:";
 
 const RESPONSE_TOKEN_MAXIMUM = 300;
 
+// IMPORTANT: Please only use this for local testing. If you are deploying
+// your app onto the internet, you should route requests through your own
+// backend server to avoid exposing your OpenAI API key in your client
+// side code.
 async function getCompletion(prompt: string): Promise<string> {
   const data = {
     prompt,
