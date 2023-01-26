@@ -20,6 +20,5 @@ To read more about this project, check out [my guide](zakmiller.com/gpt/project-
 
 ## Credit
 
-Thank you to [Samuel Roth](https://github.com/sejr/react-messenger) for some of the messenger code and [Pubnub](https://laptrinhx.com/add-a-typing-indicator-to-your-react-based-chat-app-1644457033/) for some hints about how to implement the loading indicator in CSS.
 
 And of course thank you OpenAI for GPT-3!
