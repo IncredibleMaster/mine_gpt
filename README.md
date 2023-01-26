@@ -2,7 +2,7 @@
 
 This project demonstrates a simple React chat app that lets you chat with GPT-3.
 
-![Chat with GPT-3 in action](https://i.imgur.com/ImzQGG1.gif)
+
 
 ## Running
 
